@@ -90,19 +90,11 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start gap-3 text-[#5A5A5A] text-sm">
                 <MapPin className="w-4 h-4 mt-1 flex-shrink-0 text-[#8C6B3E]" />
-                <span>Jl. Kajoetangan No. 22, Malang, East Java, Indonesia</span>
+                <span>Jl. Kartika No.2, Sisir, Kec. Batu, Kota Batu, Jawa Timur 65315</span>
               </li>
               <li className="flex items-center gap-3 text-[#5A5A5A] text-sm">
                 <Phone className="w-4 h-4 flex-shrink-0 text-[#8C6B3E]" />
-                <span>+62 341 362 943</span>
-              </li>
-              <li className="flex items-center gap-3 text-[#5A5A5A] text-sm">
-                <Mail className="w-4 h-4 flex-shrink-0 text-[#8C6B3E]" />
-                <span>info@indonesianheritagemuseum.com</span>
-              </li>
-              <li className="flex items-start gap-3 text-[#5A5A5A] text-sm">
-                <Clock className="w-4 h-4 mt-1 flex-shrink-0 text-[#8C6B3E]" />
-                <span>Tuesday - Sunday<br />09:00 - 17:00</span>
+                <span>+62 857-4840-5800</span>
               </li>
             </ul>
           </div>
@@ -110,7 +102,7 @@ export default function Footer() {
 
         <div className="border-t border-[#C8B9A6] mt-12 pt-8 text-center">
           <p className="text-[#5A5A5A] text-sm">
-            © {new Date().getFullYear()} Indonesian Heritage Museum. All rights reserved.
+            © {new Date().getFullYear()} Indonesian Heritage Museum & Made by Minilemon Tech. All rights reserved.
           </p>
         </div>
       </div>
